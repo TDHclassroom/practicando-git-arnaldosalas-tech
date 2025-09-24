@@ -6,4 +6,6 @@
 Editado desde GitHub web interface
 
 ## Información del proyecto
-Versión desarrollada en rama main
+
+## Información del proyecto
+Versión combinada de ambas ramas
